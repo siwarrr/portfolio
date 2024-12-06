@@ -13,7 +13,7 @@
        "github": "https://github.com/siwarrr/E-learning-Inclusif",
        "liveDemo": ""
     },
-    {
+    { 
       "title": "Random Quote Generator",
       "description": "An Angular-based application that displays inspirational quotes with dynamic backgrounds and theme colors, providing a fresh experience with each new quote.",
       "image": "/assets/random-quote-generator.png",

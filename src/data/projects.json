@@ -1,0 +1,73 @@
+[
+    {
+      "title": "Task Manager App",
+      "description": "A comprehensive task management application with user authentication, built using React for the frontend and Node.js, Express, MongoDB, and Passport.js for the backend.",
+      "image": "/assets/task_manager.png",
+      "github": "https://github.com/siwarrr/task-manager-backend",
+      "liveDemo": ""
+    },
+    {
+       "title": "E-learning Inclusif",
+       "description": "An inclusive learning platform designed for learners with special needs, offering adaptive resources across various educational levels and featuring an intelligent chatbot for real-time support.",
+       "image": "/assets/e-learning-inclusif.png",
+       "github": "https://github.com/siwarrr/E-learning-Inclusif",
+       "liveDemo": ""
+    },
+    {
+      "title": "Random Quote Generator",
+      "description": "An Angular-based application that displays inspirational quotes with dynamic backgrounds and theme colors, providing a fresh experience with each new quote.",
+      "image": "/assets/random-quote-generator.png",
+      "github": "https://github.com/siwarrr/Random-Quote-Generator",
+      "liveDemo": "https://random-quote-generator-delta-seven.vercel.app"
+    },
+    {
+      "title": "Markdown Previewer",
+      "description": "A React-based application that allows users to input Markdown syntax and view the rendered HTML in real-time.",
+      "image": "/assets/markdown-previewer.png",
+      "github": "https://github.com/siwarrr/Markdown-Previewer",
+      "liveDemo": "https://markdown-previewer-fawn-eight.vercel.app"
+    },
+    {
+      "title": "Quran Azkar App",
+      "description": "An Angular application offering a comprehensive experience for users to read and listen to morning and evening Azkar, as well as Quranic surahs.",
+      "image": "/assets/quran-azkar-app.png",
+      "github": "https://github.com/siwarrr/Quran-Azkar-App",
+      "liveDemo": "https://quran-azkar-app.vercel.app"
+    },
+    {
+      "title": "Calculator",
+      "description": "A simple and intuitive web-based calculator developed with React, offering basic arithmetic operations in a user-friendly interface.",
+      "image": "/assets/calculator.png",
+      "github": "https://github.com/siwarrr/Calculator",
+      "liveDemo": "https://calculator-psi-three-96.vercel.app"
+    },
+    {
+      "title": "Profile Card App",
+      "description": "A responsive web application built with React.js and CSS, designed to display user profile cards with a clean and modern design.",
+      "image": "/assets/profile-card-app.png",
+      "github": "https://github.com/siwarrr/Profile-React-App",
+      "liveDemo": "https://profile-react-app-indol.vercel.app"
+    },
+    {
+      "title": "25 + 5 Clock",
+      "description": "A responsive Pomodoro-style clock built with Angular to help users manage their time effectively with alternating work sessions and breaks.",
+      "image": "/assets/25-5-clock.png",
+      "github": "https://github.com/siwarrr/25-5-Clock",
+      "liveDemo": ""
+    },
+    {
+      "title": "To-Do List App",
+      "description": "An Angular application for managing daily tasks with features to add, edit, and complete tasks, saving data locally for 24 hours and providing daily motivational quotes.",
+      "image": "/assets/to-do-list-app.png",
+      "github": "https://github.com/siwarrr/To-Do-List-App",
+      "liveDemo": "https://to-do-list-app-sepia-eight.vercel.app/"
+    },
+    {
+        "title": "Rock, Paper, Scissors Game",
+        "description": "A simple web-based Rock, Paper, Scissors game built using Angular. Players can compete against the computer, with each round randomly generated for the computer's choice. The game keeps track of the scores and displays the winner after one of the players reaches 3 points.",
+        "image": "/assets/rock-paper-scissors.png",
+        "github": "https://github.com/siwarrr/RPS-Game",
+        "liveDemo": "https://rps-game-rho-vert.vercel.app"
+    }
+  ]
+  
